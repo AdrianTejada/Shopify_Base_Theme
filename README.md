@@ -1,4 +1,4 @@
-# A starting point for your own shopify themes
+# A starting point for your own shopify themes.
 
 This theme uses [Tailwind CSS](https://tailwindcss.com/) for styling.
 
