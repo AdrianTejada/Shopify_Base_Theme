@@ -5,11 +5,11 @@ module.exports = {
     './sections/*.liquid',
     './snippets/*.liquid',
     './templates/customers/*.liquid',
-    './templates/*.liquid'
+    './templates/*.liquid',
+    './assets/*.js'
   ],
   theme: {
     extend: {},
   },
   plugins: [],
 }
-
