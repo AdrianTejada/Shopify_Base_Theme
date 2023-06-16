@@ -5,7 +5,7 @@ This theme uses [Tailwind CSS](https://tailwindcss.com/) for styling.
 # Getting started
 
 ```sh
-shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/polidario/Elizabeth_Clean
+shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/AdrianTejada/Shopify_Base_Theme
 ```
 
 ```sh
